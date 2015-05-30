@@ -87,7 +87,7 @@ object CheckCommand "freshness" {
     vars.f_warnpuffer = "30%"
     vars.f_critpuffer = "50%"
     vars.f_warnth = "1"
-    vars.f_critth = "1001"
+    vars.f_critth = "1"
 }
 
 ```
