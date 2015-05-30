@@ -1,6 +1,6 @@
 # check_freshness
 
-before i start with the plugin description... this was my first python script (my world was windows until few days ago) :-)  Iam open and thankfull for any feedback. 
+before i start with the plugin description... this was my first python script (my world was windows until few days ago) :-)  Iam open and thankful for any feedback. 
 Ive tested few scenarios on my Server but i didnt create any tests for it. Please let me know if you find a bug. 
 
 check_freshness is an Icinga2 Plugin to check if all service checks are running. 
