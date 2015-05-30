@@ -1,9 +1,9 @@
 name: check_service_freshness
 description: "file:///README.md"
 url: "https://github.com/McSchoe/Monitoring/tree/master/Plugins/icinga2_check_service_freshness"
-tags: Freshness, Icinga2, Icingaweb2
+tags: ~
 vendor: Linux
-target: Icinga2, Icingaweb2
+target: Icinga2, Icingaweb2,Service Freshness
 type: Plugin
 license: gplv2
 releases: 
